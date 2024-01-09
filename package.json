@@ -1,6 +1,6 @@
 {
   "name": "browser-tab-id",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Library to get a unique integer id for each tab running the same app. Defaults to getting lowest positive integer.",
   "scripts": {
     "build": "npm run clean && tsup && npm run post-build",
