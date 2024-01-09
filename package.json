@@ -18,7 +18,10 @@
     "browser",
     "tab"
   ],
-  "exports": "./dist/index.js",
+  "exports": {
+    "import": "./dist/index.js",
+    "types": "./index.d.ts"
+  },
   "files": [
     "dist/index.js",
     "*.d.ts"
