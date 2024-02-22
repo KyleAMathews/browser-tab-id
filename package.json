@@ -1,7 +1,7 @@
 {
   "name": "browser-tab-id",
   "description": "Library to get a unique integer id for each tab running the same app. Defaults to getting lowest positive integer.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "bugs": {
     "url": "https://github.com/KyleAMathews/browser-tab-id/issues"
